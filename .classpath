@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/Mi unidad/AyllaSolutions/Clientes/ChileExpress - Consultoria/Proyectos/FacturaSII/FacturaSII/aii_af_trace.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/Mi unidad/AyllaSolutions/Clientes/ChileExpress - Consultoria/Proyectos/FacturaSII/FacturaSII/com.sap.aii.af.svc.filter.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/Mi unidad/AyllaSolutions/Clientes/ChileExpress - Consultoria/Proyectos/FacturaSII/FacturaSII/com.sap.aii.sec.lib.filter.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/Mi unidad/AyllaSolutions/Clientes/ChileExpress - Consultoria/Proyectos/FacturaSII/FacturaSII/com.sap.security.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/Mi unidad/AyllaSolutions/Clientes/ChileExpress - Consultoria/Proyectos/FacturaSII/FacturaSII/com.sap.xpi.ib.mapping.lib.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
